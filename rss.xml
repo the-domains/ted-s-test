@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[ted's test]]></title>
         <description><![CDATA[ted's test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ted-s-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 05:55:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 05:55:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ted-s-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Space]]></title>
+            <description><![CDATA[<article><h1>Space</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/161d43e7-c386-4dff-a072-ba56a876cd08.png"></article>]]></description>
+            <link>https://thegrid.ai/ted-s-test/space/index.html</link>
+            <guid isPermaLink="false">07a818de-1bcb-4c6c-8824-2ef8eb238997</guid>
+            <pubDate>Mon, 04 Apr 2016 05:55:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Europa]]></title>
             <description><![CDATA[<article><h1>Europa</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31dc9a49-7d72-4e6f-b7fc-ef33eadac10e.png"></article>]]></description>
-            <link>undefinedeuropa/index.html</link>
+            <link>https://thegrid.ai/ted-s-test/europa/index.html</link>
             <guid isPermaLink="false">4222784e-fb8a-4fab-a069-4734004b8f03</guid>
-            <pubDate>Mon, 04 Apr 2016 05:55:15 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2016 05:55:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
