@@ -1,4 +1,8 @@
-layout_spectrum: 0.7186717
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,12 +13,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.7662436126265675
@@ -28,13 +32,9 @@ color:
     - '#CEAFC0'
   lightness: 0.8914007705170661
 typography_spectrum: 0.7274436
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.2769423
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: "ted's test"
