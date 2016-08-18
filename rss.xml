@@ -4,8 +4,15 @@
         <description><![CDATA[ted's test]]></description>
         <link>https://thegrid.ai/ted-s-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 04:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 04:21:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ted-s-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good Morning Universe!]]></title>
+            <description><![CDATA[<article><h1>Good Morning Universe!</h1><p>What in the world am I doing?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/177d9d45-a4f1-4a54-a272-ffba5c72aad4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ted-s-test/good-morning-universe/index.html</link>
+            <guid isPermaLink="false">978605d9-36ca-493c-9906-4e94fbd413eb</guid>
+            <pubDate>Thu, 18 Aug 2016 04:21:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Europa]]></title>
             <description><![CDATA[<article><h1>Europa</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a923a60-3e94-4e4c-91ae-e9d5a2c72153.png"></article>]]></description>
